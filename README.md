@@ -16,21 +16,25 @@ Just input the IP address and you will be shown the position on a map, coordinat
 #PROS
 
 • Highly targeted audiences
--Geolocation allows marketers to connect with customers in close physical proximity to
+   -Geolocation allows marketers to connect with customers in close physical proximity to
 their business, exponentially increasing the effectiveness of a marketing campaign.
+
 • Providing a localized feeling
--IP based geolocation can display the name of a relevant state or country in a website title in order to provide a localized feeling and attract attention.
+   -IP based geolocation can display the name of a relevant state or country in a website title in order to provide a localized feeling and attract attention.
+   
 • Targeted advertising
--IP based geolocation can be used to emphasize a different product to targeted users.
+   -IP based geolocation can be used to emphasize a different product to targeted users.
+   
 • Redirecting visitors to a page in their language
--You can leverage IP based geolocation to deliver content that is more targeted and relevant.
+   -You can leverage IP based geolocation to deliver content that is more targeted and relevant.
 
 #CONS
 
 • It doesn’t provide accurate location.
--IP based geolocation services can only provide an approximate measure of geolocation accuracy.
+    -IP based geolocation services can only provide an approximate measure of geolocation accuracy.
+    
 • It doesn’t provide approximate location too after activating of VPN.
--A VPN, or Virtual Private Network, changes your apparent location by sending your traffic through a server in another location. Here's how that works: Your VPN app lets you select a server anywhere in the world where your VPN service has servers.
+    -A VPN, or Virtual Private Network, changes your apparent location by sending your traffic through a server in another location. Here's how that works: Your VPN app lets you select a server anywhere in the world where your VPN service has servers.
 
 #Conclusion
 
