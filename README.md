@@ -15,25 +15,25 @@ Just input the IP address and you will be shown the position on a map, coordinat
 
 #PROS
 
-• Highly targeted audiences
+• Highly targeted audiences</br>
    -Geolocation allows marketers to connect with customers in close physical proximity to
 their business, exponentially increasing the effectiveness of a marketing campaign.
 
-• Providing a localized feeling
+• Providing a localized feeling</br>
    -IP based geolocation can display the name of a relevant state or country in a website title in order to provide a localized feeling and attract attention.
    
-• Targeted advertising
+• Targeted advertising</br>
    -IP based geolocation can be used to emphasize a different product to targeted users.
    
-• Redirecting visitors to a page in their language
+• Redirecting visitors to a page in their language</br>
    -You can leverage IP based geolocation to deliver content that is more targeted and relevant.
 
 #CONS
 
-• It doesn’t provide accurate location.
+• It doesn’t provide accurate location.</br>
     -IP based geolocation services can only provide an approximate measure of geolocation accuracy.
     
-• It doesn’t provide approximate location too after activating of VPN.
+• It doesn’t provide approximate location too after activating of VPN.</br>
     -A VPN, or Virtual Private Network, changes your apparent location by sending your traffic through a server in another location. Here's how that works: Your VPN app lets you select a server anywhere in the world where your VPN service has servers.
 
 #Conclusion
